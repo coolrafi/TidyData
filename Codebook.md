@@ -113,6 +113,6 @@ Column name:               Type:
 - fBodyBodyGyroMag_std     : num
 - fBodyBodyGyroJerkMag_mean: num
 - fBodyBodyGyroJerkMag_std : num
-<br>
+<br><br>
 Each column, except subject and activity contains mean value of the given feature (column name)
 <br>
