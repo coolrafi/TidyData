@@ -9,19 +9,19 @@ Full description on the experiment can be found here: http://archive.ics.uci.edu
 
 ### Tidy data set
 tidy data set with the average of each variable for each activity and each subject
-the result tidy TidyMean data set contains columns as follows:</br>
+the result tidy TidyMean data set contains columns as follows: <br>
 COLUMN NAME:               TYPE:<br>
--Subject                  : int
--Activity                 : Factor
--tBodyAcc_mean_X          : num
--tBodyAcc_mean_Y          : num
--tBodyAcc_mean_Z          : num
--tBodyAcc_std_X           : num
--tBodyAcc_std_Y           : num
--tBodyAcc_std_Z           : num
--tGravityAcc_mean_X       : num
--tGravityAcc_mean_Y       : num
--tGravityAcc_mean_Z       : num
+- Subject                  : int
+- Activity                 : Factor
+- tBodyAcc_mean_X          : num
+- tBodyAcc_mean_Y          : num
+- tBodyAcc_mean_Z          : num
+- tBodyAcc_std_X           : num
+- tBodyAcc_std_Y           : num
+- tBodyAcc_std_Z           : num
+- tGravityAcc_mean_X       : num
+- tGravityAcc_mean_Y       : num
+- tGravityAcc_mean_Z       : num
 tGravityAcc_std_X        : num
 tGravityAcc_std_Y        : num
 tGravityAcc_std_Z        : num
